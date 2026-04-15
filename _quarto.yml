@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Linh KT Pham"
+  navbar:
+    pinned: true 
+
+    left:
+      - href: index.qmd
+        text: About
+      - href: cv/index.qmd
+        text: CV
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

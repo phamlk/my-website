@@ -1,0 +1,6 @@
+---
+title: "Curriculum vitae"
+---
+
+<embed src="Linh_Pham_CV_current.pdf" width="100%" height="600px"/>
+

@@ -1,0 +1,11 @@
+---
+title: "Good day!"
+image: images/profile.jpg
+about: 
+    template: marquee
+    image-alt: "Picture of an ice cream cone at the foreground and the beach in Bournemouth, UK in the background"
+---
+
+I'm an MD/PhD student completing my medical school training through the UT Health Science Center San Antonio MSTP and my graduate studies through the NIH OxCam Program. I'm currently in my fourth year of graduate school, studying how patterns of regional sex differences in the mouse brain emerge throughout development. 
+
+I also sing with the Washington Metropolitan Gamer Symphony Orchestra, contributing my zero knowledge of gaming to the group, and tandem bike as a captain with the Metropolitan Washington Association of Blind Athletes. 
